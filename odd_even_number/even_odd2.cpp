@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-
-
 bool check(int num){
 return num % 2 == 0? true: false;
 }
